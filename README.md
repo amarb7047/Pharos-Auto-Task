@@ -40,10 +40,10 @@ A one-stop automation suite for the **Pharos Testnet** and its expanding ecosyst
 1. **Clone this Repo**
 
 ```bash
-git clone https://github.com/cryptodai3/Pharos-Automation-Bot.git
+git clone https://github.com/amarb7047/Pharos-Auto-Task.git
 ```
 ```bash
-cd Pharos-Automation-Bot
+cd Pharos-Auto-Task
 ```
 
 2. **Install Dependencies**
